@@ -6,6 +6,4 @@ A. a video screen recording,
 
 B. an audio recording, 
 
-C. a modified version of existing audio/video files **(in progress)**
-
 [Best working version] https://codesolutions2.github.io/video_audio_processing/index.html
